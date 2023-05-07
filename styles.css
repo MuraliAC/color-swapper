@@ -20,5 +20,15 @@
     transition: transform 0.5s;
 }
 
-  
+footer{
+    height: 70px;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer span{
+    font-size: 1.7rem;
+}
 
